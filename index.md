@@ -14,4 +14,4 @@ Changes
 Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice. We will also keep prior versions of this Privacy Policy in an archive for your review.
 
 Contact us
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at liudahua233@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at wanchen3210@gmail.com.
