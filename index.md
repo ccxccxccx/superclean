@@ -1,8 +1,8 @@
 
-   Privacy Policy
+    Privacy Policy
    This Privacy Policy informs you how we collect and use the information you provide in doing business with us including use of our products and its services. We know how much you care about the way your Personal Data is used. We are committed to protecting the integrity and confidentiality of your information and act in a careful, sensible manner.
 
-   Information we collect
+  Information we collect</br>
   We do not collect personal information (such as email address, phone number, phyisical address, fax etc), We only collect device-specific information (device type and operation system and others).
 
    How we use information we collect
