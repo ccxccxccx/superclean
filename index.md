@@ -1,10 +1,10 @@
                             Super Cleaner™
                                  
-    Privacy Policy
-    This Privacy Policy informs you how we collect and use the information you provide in doing business with us including use of our products and its services. We know how much you care about the way your Personal Data is used. We are committed to protecting the integrity and confidentiality of your information and act in a careful, sensible manner.
+   Privacy Policy
+   This Privacy Policy informs you how we collect and use the information you provide in doing business with us including use of our products and its services. We know how much you care about the way your Personal Data is used. We are committed to protecting the integrity and confidentiality of your information and act in a careful, sensible manner.
 
     Information we collect
-    We do not collect personal information (such as email address, phone number, phyisical address, fax etc), We only collect device-specific information (device type and operation system and others).
+   We do not collect personal information (such as email address, phone number, phyisical address, fax etc), We only collect device-specific information (device type and operation system and others).
 
     How we use information we collect
    We may use Information we collect from your for any purpose as below: 1. To personalize user experience- We may use your Non- Personal Information to understand demographics, customer interest, and other trends among our Users; 2. To help develop our service- We may use Non- Personal Information to provide, maintain, improve and modify the Applications, Services and the Site and develop new services;
